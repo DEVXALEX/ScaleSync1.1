@@ -1,0 +1,12 @@
+# Compiled Java class files
+*.class
+
+# JAR file
+*.jar
+
+# Database file (and its helper files)
+*.db
+*.db-journal
+
+# Distribution folder (the entire installer)
+/dist/
